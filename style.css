@@ -1,0 +1,21 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.heading {
+    margin: 0px;
+    font-family: 'Itim', cursive;
+    width: 100%;
+    color: black;
+}
+
+#smallh {
+    font-size: 15px;
+}
+
+a {
+    width: 200px;
+    background-color: rgb(84, 134, 26);
+    color: white;
+}

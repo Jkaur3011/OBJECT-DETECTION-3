@@ -1,0 +1,38 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    font-family: 'Darumadrop One', cursive;
+    color: rgb(243,222,175);
+    width: 250px;
+    align-self: center;
+    border-radius: 8px;
+    box-shadow: 5px -5px 20px;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100px;
+    background-color: black;
+    align-items: left;
+    line-height: 2;
+    border-radius: 10px;
+}
+
+#status {
+    background-color: rgb(36,85,151);
+    border-width: 2px;
+    border-color: rgb(243,222,175);
+    border-style: solid;
+    color: rgb(243,222,175);
+}
+
+canvas{
+    border-width: 0.5px;
+    border-style:ridge;
+    border-color: white;
+}
